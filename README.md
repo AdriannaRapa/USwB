@@ -1,6 +1,5 @@
 # 💻 CommitBoard – Personal Coding Task Manager.
-.....
-dfadffs
+
 Projekt tworzony w ramach przedmiotu "Usługi sieciowe w biznesie".
 
 ## 📖 O Projekcie
