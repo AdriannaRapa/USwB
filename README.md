@@ -1,4 +1,4 @@
-# 💻 CommitBoard – Personal Coding Task Manager.
+# 💻 CommitBoard – Personal Coding Task Manager. iw8iat
 
 Projekt tworzony w ramach przedmiotu "Usługi sieciowe w biznesie".
 fdasfdafdasdfas
