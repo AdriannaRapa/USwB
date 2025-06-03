@@ -3,11 +3,13 @@
 Projekt tworzony w ramach przedmiotu "Usługi sieciowe w biznesie".
 
 📖 O Projekcie
+
 CommitBoard to lekkie, spersonalizowane narzędzie umożliwiające automatyczne zarządzanie zadaniami programistycznymi w Notion, poprzez integrację z GitHubem. Projekt został stworzony z myślą o programistach pracujących indywidualnie – studentach, freelancerach oraz osobach realizujących własne projekty kodowe.
 
 Początkowo zakładałam integrację Jiry z GitHubem 🔄, jednak Jira okazała się zbyt rozbudowana i nieintuicyjna w pracy solo 🙅‍♀️. Dlatego wybrałam Notion – elastyczne i nowoczesne środowisko no-code do zarządzania wiedzą i zadaniami 📝.
 
 🎯 Cel Projektu
+
 Ułatwienie zarządzania zadaniami osobom pracującym indywidualnie
 
 Automatyzacja aktualizacji statusów zadań w Notion na podstawie commitów z GitHub
