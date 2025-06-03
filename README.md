@@ -1,6 +1,6 @@
 # 💻 CommitBoard – Personal Coding Task Manager
 
-Projekt tworzony w ramach przedmiotu "Usługi sieciowe w biznesie".
+Projekt tworzony w ramach przedmiotu "Usługi sieciowe w biznesie"..
 
 ## 📖 O Projekcie
 Celem projektu jest połączenie GitHub z Notion ✨, umożliwiające automatyczne przesyłanie informacji o commitach z GitHub do spersonalizowanego menedżera zadań w Notion.
